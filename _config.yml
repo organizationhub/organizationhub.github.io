@@ -22,3 +22,7 @@ compress_html:
   profile: false
 
 remote_theme: pmarsceill/just-the-docs
+
+aux_links:
+    "Dare to connect with Wirepas":
+      - "//wirepas.com"
