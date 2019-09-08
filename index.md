@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Organizational hub is an experiment to amaze the Old Man of Restelo."
+description: "Organizational hub is an experiment."
 permalink: /
 ---
 
@@ -20,3 +20,8 @@ Despite that, it is still possible to showcase our point by commiting the markdo
 [Build your system](https://github.com/wirepas/tutorials){: .btn .btn-green }
 
 
+Bacon ipsum dolor amet pig ham t-bone biltong alcatra, ball tip strip steak corned beef sirloin shank brisket pork belly rump shoulder tri-tip. Kielbasa corned beef ham hock pork loin ham t-bone short loin pork hamburger pork chop tongue pork belly alcatra. Fatback bresaola pork loin tenderloin beef ribs burgdoggen. Pig filet mignon chicken, shankle bresaola fatback pork prosciutto pastrami venison. Buffalo short ribs picanha hamburger, salami meatloaf pork loin turkey beef ribs filet mignon pork belly jowl. Cupim shankle capicola salami. Bresaola hamburger shank boudin turducken meatloaf capicola turkey sausage.
+
+![an example network](/assets/img/network.jpg)
+
+Pork chop kielbasa frankfurter andouille, buffalo shank chuck jerky ball tip ham hock turkey pancetta filet mignon porchetta. Strip steak beef ribs boudin pastrami tri-tip doner ground round pork jowl pork chop brisket drumstick pork belly. Short loin tail leberkas chicken shank tongue drumstick salami porchetta meatloaf. Ham leberkas cupim corned beef, landjaeger rump turkey tongue swine chicken.
