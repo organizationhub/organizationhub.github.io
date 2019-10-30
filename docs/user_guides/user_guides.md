@@ -2,8 +2,6 @@
 layout: default
 title: User Guides
 nav_order: 11
-has_children: true
-permalink: /docs/user_guides
 ---
 
 # User Guides
